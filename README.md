@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="assets/logo-dark.png#gh-light-mode-only" width="480" alt="YCAIR 晏呈空氣" />
+  <img src="assets/logo-white.png#gh-dark-mode-only" width="480" alt="YCAIR 晏呈空氣" />
+</p>
+
 <h1 align="center">劉晏呈 <sub>Liu Yan-cheng</sub></h1>
-<h3 align="center">YCAIR 晏呈空氣</h3>
 
 <p align="center">
   <b>AI Agent Architect</b>&nbsp;&nbsp;|&nbsp;&nbsp;<b>Web3 Security Researcher</b>&nbsp;&nbsp;|&nbsp;&nbsp;<b>P2P Network Engineer</b>
