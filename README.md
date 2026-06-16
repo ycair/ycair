@@ -9,6 +9,7 @@
   <a href="https://ycair.space"><img src="https://img.shields.io/badge/ycair.space-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://ycair.online"><img src="https://img.shields.io/badge/ycair.online-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:ycair.support@gmail.com"><img src="https://img.shields.io/badge/Email-ycair.support%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/THU-CS-AIM-Lab"><img src="https://img.shields.io/badge/THU--CS--AIM--Lab-00E5FF?style=for-the-badge&logo=googleclassroom&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -41,9 +42,11 @@ I'm a CSIE student and independent developer from Taiwan, running a solo studio 
 
 ```
 🎓 Background       : CSIE, Taiwan — Independent Developer & Studio Founder
+🏫 Lab              : THU-CS-AIM-Lab — Prof. Shyh-Wei Chen's Research Group, THU CS
 🏗️ Current focus    : AI Agent harnesses · P2P tunneling · Web3 transaction security
 🔬 Research xp      : ICD-10 auto-coding (DR-CAML) · Medical NLP · Restaurant optimization (ILP/CSP)
 🛡️ Web3 defense     : Browser extension security · Chainalysis API · Bloom filter auditing
+💬 Discord          : @ycair
 🐍 Fun fact         : My Ball Python is literally named "Cache"
 🌐 Studio           : YCAIR 晏呈空氣 — ycair.space · ycair.online
 🤝 Open to          : Agent systems, network infrastructure, Web3 security, research collaboration
@@ -126,6 +129,11 @@ A Discord MMORPG text game with 55+ slash commands: combat, economy, lottery, pe
 <p align="center">
   <a href="https://ycair.space"><img src="https://img.shields.io/badge/ycair.space-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://ycair.online"><img src="https://img.shields.io/badge/ycair.online-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/THU-CS-AIM-Lab"><img src="https://img.shields.io/badge/THU--CS--AIM--Lab-00E5FF?style=for-the-badge&logo=googleclassroom&logoColor=white" /></a>
+  <a href="https://discord.com/users/663213825289486336"><img src="https://img.shields.io/badge/Discord-ycair-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+<p align="center">
   <a href="mailto:ycair.support@gmail.com"><img src="https://img.shields.io/badge/Email-ycair.support%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ycair"><img src="https://img.shields.io/badge/GitHub-ycair-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
